@@ -17,12 +17,12 @@
 
   // Define color schemes
   const colorsBlue = {
-      col01: "#00b8ff",
-      col02: "#009bd6",
-      col03: "#00719c",
-      col04: "#00415a",
-      col05: "#001f2b",
-      colbg01: "#00415a",
+      col01: "#00b8ff", //  noch lighter
+      col02: "#009bd6", // links lighter
+      col03: "#00719c", // Primary
+      col04: "#00415a", // dark
+      col05: "#001f2b", // darker 
+      colbg01: "#00415a",  
       colbg02: "#001f2b",
   };
 
